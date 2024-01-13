@@ -1,0 +1,4 @@
+chapter2 
+this is done using github editor
+
+throw exception
